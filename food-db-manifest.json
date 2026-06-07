@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "locales": {
+    "en": {
+      "bundled": true
+    },
+    "fr": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_fr.db",
+      "sha256": "e813c47e545fb9253ea096446d44764e13ba80a9e60d6cb555d64fe490d7c7ac",
+      "sizeBytes": 107155456,
+      "dbVersion": 1
+    },
+    "da": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_da.db",
+      "sha256": "31f012cf0797275fa17f3bd62ef16732f46b43fd7f0f921d409f9a944a795e75",
+      "sizeBytes": 99340288,
+      "dbVersion": 1
+    },
+    "nl": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_nl.db",
+      "sha256": "24017928cd908e5a1d4259491fca549048aab3dd0c301b119dde9a771c919c3d",
+      "sizeBytes": 100102144,
+      "dbVersion": 1
+    },
+    "de": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_de.db",
+      "sha256": "cb9777022f61769431ba2d7382e7019d03496a72ab83a2834e9dd40afd2097bf",
+      "sizeBytes": 101412864,
+      "dbVersion": 1
+    },
+    "it": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_it.db",
+      "sha256": "907c3e0b167a5362e18d123015d1c599c4fff166825289e4fab61aa419d4f1bb",
+      "sizeBytes": 104603648,
+      "dbVersion": 1
+    },
+    "pl": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_pl.db",
+      "sha256": "6d1dc717b867a7cceb925eb84a094ff41ee06f41287507a08e2c8c76e583036d",
+      "sizeBytes": 106577920,
+      "dbVersion": 1
+    },
+    "pt": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_pt.db",
+      "sha256": "4f1bda7857bbc82c500a12ce43010b0549045e923774a1437ec9684ec75dcbfa",
+      "sizeBytes": 104927232,
+      "dbVersion": 1
+    },
+    "es": {
+      "url": "https://github.com/timpelser/CalorieKit-food-db/releases/download/v1/opennutrition_es.db",
+      "sha256": "df46805819453a53419f0f0a1027f0c3a30d6b6a4cdc60db8d88f4ced2224e7e",
+      "sizeBytes": 104321024,
+      "dbVersion": 1
+    }
+  }
+}
